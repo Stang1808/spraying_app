@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70806296331",
+    "project_id": "spraying-app-web",
+    "storage_bucket": "spraying-app-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70806296331:android:5a0ac49cf74d7123beb40e",
+        "android_client_info": {
+          "package_name": "com.example.spraying_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9m_dqh4tHMOPOdYTMbBn-b6HX_8jNe1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
