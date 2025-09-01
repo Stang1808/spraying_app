@@ -23,7 +23,7 @@
     }
   },
   "hosting": {
-    "public": "build/web",
+    "public": "Stang1808/spraying_app",
     "ignore": [
       "firebase.json",
       "**/.*",
